@@ -1,0 +1,37 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 3",
+            "cachedVersion": "3.3.3",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl",
+            "version": "3.3.3"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "3.3.3",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "cachedVersion": "b1.7.3",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "b1.7.3"
+        },
+        {
+            "cachedName": "Better than Adventure!",
+            "cachedVersion": "v8.0-pre2",
+            "uid": "custom.jarmod.bta"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedVersion": "0.18.4-bta.11",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.18.4-bta.11"
+        }
+    ],
+    "formatVersion": 1
+}

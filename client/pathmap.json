@@ -1,0 +1,7 @@
+{
+	"patches/net.minecraft.json": "/patches/net.minecraft.json",
+	"patches/org.lwjgl.json": "/patches/org.lwjgl.json",
+	"patches/custom.jarmod.bta.json": "/patches/custom.jarmod.bta.json",
+	"instance.cfg": "/instance.cfg",
+	"mmc-pack.json": "/mmc-pack.json"
+}
