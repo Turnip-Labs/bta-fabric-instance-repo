@@ -1,0 +1,43 @@
+{
+    "+traits": [
+        "texturepacks",
+        "noapplet",
+        "legacyLaunch",
+        "FirstThreadOnMacOS"
+    ],
+    "libraries": [],
+    "assetIndex": {
+        "id": "pre-1.6",
+        "sha1": "3d8e55480977e32acd9844e545177e69a52f594b",
+        "size": 74091,
+        "totalSize": 49505710,
+        "url": "https://launchermeta.mojang.com/v1/packages/3d8e55480977e32acd9844e545177e69a52f594b/pre-1.6.json"
+    },
+    "formatVersion": 1,
+    "compatibleJavaMajors": [
+        17
+    ],
+    "compatibleJavaName": "java-runtime-gamma",
+    "mainJar": {
+        "downloads": {
+            "artifact": {
+                "sha1": "43db9b498cb67058d2e12d394e6507722e71bb45",
+                "size": 1465375,
+                "url": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar"
+            }
+        },
+        "name": "com.mojang:minecraft:b1.7.3:client"
+    },
+    "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --gameDir ${game_directory} --uuid ${auth_uuid}",
+    "name": "Minecraft",
+    "releaseTime": "2011-07-08T00:00:00+02:00",
+    "requires": [
+        {
+            "suggests": "3.3.3",
+            "uid": "org.lwjgl"
+        }
+    ],
+    "type": "old_beta",
+    "uid": "net.minecraft",
+    "version": "b1.7.3"
+}
