@@ -5,15 +5,15 @@
             "MMC-displayname": "Better than Adventure!",
             "downloads": {
                 "artifact": {
-                    "sha1": "87115017c313c32bc4b20be69d890984e0112fc6",
-                    "size": 58503168,
-                    "url": "https://downloads.betterthanadventure.net/bta-client/release/v8.0/client.jar"
+                    "sha1": "47f9d17b96ac3dba9cff6678485a972cf4ed7f15",
+                    "size": 58531840,
+                    "url": "https://downloads.betterthanadventure.net/bta-client/release/v8.0.1/client.jar"
                 }
             },
-            "name": "net.betterthanadventure:bta-client:v8.0:client"
+            "name": "net.betterthanadventure:bta-client:v8.0.1:client"
         }
     ],
     "name": "Better than Adventure!",
     "uid": "custom.jarmod.bta",
-    "version": "v8.0"
+    "version": "v8.0.1"
 }
